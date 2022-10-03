@@ -1,0 +1,14 @@
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (1, 'CS', 'book1', 'book1');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (2, 'CS', 'book2', 'book2');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (3, 'CS', 'book3', 'book3');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (4, 'CS', 'book4', 'book4');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (5, 'CS', 'book5', 'book5');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (6, 'CS', 'book6', 'book6');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (7, 'CS', 'book7', 'book7');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (8, 'CS', 'book8', 'book8');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (9, 'CS', 'book9', 'book9');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (10, 'CS', 'book10', 'book10');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (11, 'CS', 'book11', 'book11');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (12, 'CS', 'book12', 'book12');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (13, 'CS', 'book13', 'book13');
+INSERT INTO `tbl_book` (`id`, `type`, `name`, `description`) VALUES (14, 'CS', 'book14', 'book14');
